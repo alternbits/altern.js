@@ -1,0 +1,21 @@
+{
+  "name": "altern",
+  "version": "0.0.1",
+  "description": "An npm package to interact with the altern API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/alternbits/altern.js"
+  },
+  "keywords": [
+    "altern",
+    "ai",
+    "directory",
+    "api"
+  ],
+  "author": "Dariush Abbasi",
+  "license": "MIT"
+}
