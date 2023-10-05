@@ -17,5 +17,8 @@
     "api"
   ],
   "author": "Dariush Abbasi",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }
